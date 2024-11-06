@@ -1,0 +1,18 @@
+
+.button{
+    margin: 5px;
+    border-radius: 4px;
+    font-family: "roboto";
+
+}
+
+.p{
+    color: green;
+    font-size: 40px;
+    font-family: "Bree Serif";
+}
+
+.mainDiv{
+    
+    text-align: center;
+}
